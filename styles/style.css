@@ -73,8 +73,8 @@ img {
 
 .h_option_list span::before {
   font-family: "hcom-icons";
-  font-size: 18px;
-  content: "";
+  font-size: 17px;
+  content: "\E9B5";
   position: absolute;
   left: -16px;
   top: 5%;
@@ -97,10 +97,10 @@ img {
 }
 
 .h_option_list ._stamp span::before {
-  content: "";
+  content: "\E927";
 }
 .h_option_list ._waruntee span::before {
-  content: "";
+  content: "\E906";
 }
 /***** SECTION HOTEL WARNING ****/
 
@@ -155,12 +155,12 @@ img {
 .content li::before {
   font-family: "hcom-icons";
   font-size: 18px;
-  content: "";
+  content: "\E917";
   position: absolute;
   left: -24px;
   top: -20%;
 }
 
 .content .hilight li::before {
-  content: "";
+  content: "\E9B5";
 }
