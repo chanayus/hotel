@@ -80,8 +80,7 @@ img {
   top: 5%;
 }
 
-.h_option_list ._stamp span,
-.h_option_list ._waruntee span {
+.h_option_list :where(._stamp span, ._waruntee span) {
   cursor: pointer;
   text-decoration: underline dotted 2px;
 }
